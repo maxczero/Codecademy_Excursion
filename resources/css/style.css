@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    align-content: center;
+    text-align: center;
+    color: white;
+}
+
+h1.heading {
+    font-size: 50px;
+}
+
+a.link {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+h2.subheading {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+p {
+    columns: gray;
+    font-size: 21px;
+}
+
+p.copyright {
+    text-align: right;
+    color: gray;
+}
+
+video {
+    padding: 10px;
+}
